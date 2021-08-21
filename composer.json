@@ -15,7 +15,7 @@
   "autoload": {
     "psr-4": {
       "ZnUser\\Person\\": "src",
-      "ZnSymfony\\AdminPanel\\Tests\\": "tests"
+      "ZnUser\\Person\\Tests\\": "tests"
     }
   }
 }
